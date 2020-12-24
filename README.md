@@ -1,2 +1,4 @@
 # Weechat-Scripts
-A collection of weechat scripts I wrote. 
+## How to install
+- Copy <code>Vaults-Scripts</code> folder to your weechat directory.
+  - Usually <code>~/.weechat</code>
